@@ -1,14 +1,14 @@
 constant: CONNECTION_NAME {
-  value: "connection"
+  value: "conn_cortex_framework_demo_sfmc"
   export: override_required
 }
 
 constant: GCP_PROJECT_ID {
-  value: "GCP Project ID"
+  value: "leega-demo-cortex"
   export: override_required
 }
 
 constant: REPORTING_DATASET {
-  value: "Reporting Dataset Name"
+  value: "CORTEX_8_SFMC_REPORT"
   export: override_required
 }
